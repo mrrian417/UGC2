@@ -141,7 +141,7 @@
             border-radius: 4px;
         }
         .sidebar::-webkit-scrollbar-thumb:hover {
-            background: #15803d;
+            background: #3181ea;
         }
 
         /* Responsive Design */
@@ -224,10 +224,10 @@
         #content-miniature textarea { background-color: rgba(255,255,255,0.5); border: 2px solid #a5b4fc; }
         #content-miniature textarea:focus { outline: none; border-color: #16a34a; box-shadow: 0 0 0 2px rgba(22, 163, 74, 0.3); }
         #content-miniature .orientation-btn { background-color: white; border: 2px solid #e0e7ff; }
-        #content-miniature .orientation-btn.selected { background-color: #16a34a; color: white; border-color: #15803d; }
+        #content-miniature .orientation-btn.selected { background-color: #16a34a; color: white; border-color: #3181ea; }
         #content-miniature .ratio-btn-mini { background-color: white; border: 2px solid #e0e7ff; padding: 0.75rem; border-radius: 0.5rem; font-weight: 500; transition: all 0.3s; cursor: pointer; display: flex; align-items: center; justify-content: center; }
         #content-miniature .ratio-btn-mini:hover { border-color: #16a34a; background-color: rgba(240, 253, 244, 0.5); }
-        #content-miniature .ratio-btn-mini.selected { background-color: #16a34a; color: white; border-color: #15803d; box-shadow: 0 4px 12px rgba(22, 163, 74, 0.3); }
+        #content-miniature .ratio-btn-mini.selected { background-color: #16a34a; color: white; border-color: #3181ea; box-shadow: 0 4px 12px rgba(22, 163, 74, 0.3); }
 
         /* --- STYLES FOR TAB 2: HALU IDOL --- */
         #content-halu {
@@ -448,10 +448,10 @@
             animation: spin 1s linear infinite;
         }
         #content-food-selfie .orientation-btn { background-color: white; border: 2px solid #e0e7ff; }
-        #content-food-selfie .orientation-btn.selected { background-color: #16a34a; color: white; border-color: #15803d; }
+        #content-food-selfie .orientation-btn.selected { background-color: #16a34a; color: white; border-color: #3181ea; }
         #content-food-selfie .ratio-btn-food { background-color: white; border: 2px solid #e0e7ff; padding: 0.75rem; border-radius: 0.5rem; font-weight: 500; transition: all 0.3s; cursor: pointer; display: flex; align-items: center; justify-content: center; }
         #content-food-selfie .ratio-btn-food:hover { border-color: #16a34a; background-color: rgba(240, 253, 244, 0.5); }
-        #content-food-selfie .ratio-btn-food.selected { background-color: #16a34a; color: white; border-color: #15803d; box-shadow: 0 4px 12px rgba(22, 163, 74, 0.3); }
+        #content-food-selfie .ratio-btn-food.selected { background-color: #16a34a; color: white; border-color: #3181ea; box-shadow: 0 4px 12px rgba(22, 163, 74, 0.3); }
         #content-food-selfie .image-uploader-box {
             border: 2px dashed #a5b4fc;
             padding: 1.5rem;
@@ -488,7 +488,7 @@
         #content-food-selfie .theme-btn.selected {
             background-color: #16a34a;
             color: white;
-            border-color: #15803d;
+            border-color: #3181ea;
             transform: translateY(-3px) scale(1.05);
             box-shadow: 0 6px 12px rgba(59, 130, 246, 0.3);
         }
@@ -1603,7 +1603,7 @@
         /* --- STYLES FOR TAB 14: POV TANGAN --- */
         #content-pov-tangan {
             font-family: 'Inter', sans-serif;
-            background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+            background: linear-gradient(135deg, #16a34a 0%, #3181ea 100%);
             color: #ffffff;
             padding: 2rem;
             border-radius: 1rem;
@@ -1628,7 +1628,7 @@
             overflow: hidden;
         }
         #content-pov-tangan .upload-area:hover {
-            border-color: #15803d;
+            border-color: #3181ea;
             background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
             transform: translateY(-5px);
             box-shadow: 0 10px 25px rgba(22, 163, 74, 0.3);
@@ -1645,7 +1645,7 @@
             border-radius: 0.75rem;
         }
         #content-pov-tangan .btn-generate {
-            background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+            background: linear-gradient(135deg, #16a34a 0%, #3181ea 100%);
             color: white;
             padding: 1rem 2.5rem;
             border-radius: 9999px;
@@ -1680,7 +1680,7 @@
             background-color: #f0fdf4;
         }
         #content-pov-tangan .ratio-btn-pov.selected {
-            background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+            background: linear-gradient(135deg, #16a34a 0%, #3181ea 100%);
             color: white;
             border-color: #16a34a;
             box-shadow: 0 4px 12px rgba(22, 163, 74, 0.3);
@@ -1706,7 +1706,7 @@
             transform: translateY(-2px);
         }
         #content-pov-tangan .hand-count-btn-pov.selected {
-            background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+            background: linear-gradient(135deg, #16a34a 0%, #3181ea 100%);
             color: white;
             border-color: #16a34a;
             box-shadow: 0 4px 12px rgba(22, 163, 74, 0.3);
@@ -1780,7 +1780,7 @@
 
         /* --- STYLES FOR MOCKUP STUDIO --- */
         #content-mockup-studio {
-            background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+            background: linear-gradient(135deg, #16a34a 0%, #3181ea 100%);
             min-height: 100vh;
             padding: 2rem 1rem;
         }
@@ -1827,7 +1827,7 @@
         }
 
         #content-mockup-studio .btn-generate {
-            background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+            background: linear-gradient(135deg, #16a34a 0%, #3181ea 100%);
             color: white;
             font-size: 1.125rem;
             font-weight: 700;
@@ -1868,7 +1868,7 @@
         }
 
         #content-mockup-studio .ratio-btn-mockup.selected {
-            background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+            background: linear-gradient(135deg, #16a34a 0%, #3181ea 100%);
             color: white;
             border-color: #16a34a;
             box-shadow: 0 4px 12px rgba(22, 163, 74, 0.3);
@@ -1974,7 +1974,7 @@
             position: absolute;
             top: 0.75rem;
             right: 0.75rem;
-            background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+            background: linear-gradient(135deg, #16a34a 0%, #3181ea 100%);
             color: white;
             padding: 0.375rem 1rem;
             border-radius: 9999px;
@@ -2582,7 +2582,7 @@
         .option-btn-islami.selected {
             background: linear-gradient(135deg, #f0fdf4 0%, #ddd6fe 100%);
             border-color: #16a34a;
-            color: #15803d;
+            color: #3181ea;
             font-weight: 700;
             box-shadow: 0 4px 16px rgba(139, 92, 246, 0.3);
             transform: translateY(-2px);
@@ -2736,7 +2736,7 @@
         .option-btn-banner.selected {
             background: linear-gradient(135deg, #f0fdf4 0%, #ddd6fe 100%);
             border-color: #16a34a;
-            color: #15803d;
+            color: #3181ea;
             font-weight: 700;
             box-shadow: 0 4px 16px rgba(139, 92, 246, 0.3);
             transform: translateY(-2px);
@@ -2777,7 +2777,7 @@
         }
         #banner-style-options::-webkit-scrollbar-thumb:hover,
         #banner-size-options::-webkit-scrollbar-thumb:hover {
-            background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+            background: linear-gradient(135deg, #16a34a 0%, #3181ea 100%);
         }
 
         /* Story Update - Ratio Button Styles */
@@ -3124,7 +3124,7 @@
         .option-btn-sketch.selected {
             background: linear-gradient(135deg, #f0fdf4 0%, #ddd6fe 100%);
             border-color: #16a34a;
-            color: #15803d;
+            color: #3181ea;
             font-weight: 700;
             box-shadow: 0 4px 16px rgba(139, 92, 246, 0.3);
             transform: translateY(-2px);
@@ -3316,7 +3316,7 @@
             border: 2px solid #fde68a;
             border-radius: 0.75rem;
             background: #fffbeb;
-            color: #15803d;
+            color: #3181ea;
             font-weight: 500;
             cursor: pointer;
             transition: all 0.2s;
@@ -3327,7 +3327,7 @@
             background: #fefce8;
         }
         .option-btn-wc.selected {
-            background: linear-gradient(135deg, #15803d 0%, #eab308 100%);
+            background: linear-gradient(135deg, #3181ea 0%, #eab308 100%);
             color: white;
             border-color: #eab308;
             box-shadow: 0 4px 12px rgba(234, 179, 8, 0.3);
@@ -3617,11 +3617,11 @@
             transition: all 0.3s;
             border: none;
             background: transparent;
-            color: #15803d;
+            color: #3181ea;
             cursor: pointer;
         }
         .mode-toggle-before-after button.active {
-            background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+            background: linear-gradient(135deg, #16a34a 0%, #3181ea 100%);
             color: white;
             box-shadow: 0 4px 12px rgba(22, 163, 74, 0.4);
         }
@@ -4049,7 +4049,7 @@
             width: 0;
             height: 0;
             border-radius: 50%;
-            background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+            background: linear-gradient(135deg, #16a34a 0%, #3181ea 100%);
             transform: translate(-50%, -50%);
             transition: width 0.5s ease, height 0.5s ease;
             opacity: 0.1;
@@ -4677,7 +4677,7 @@
             --logo-primary: #16a34a;
             --logo-secondary: #EC4899;
             --logo-light: #F3E8FF;
-            --logo-dark: #15803d;
+            --logo-dark: #3181ea;
         }
 
         /* Upload Box Styles */
@@ -5587,7 +5587,7 @@
             --brandkit-primary: #16a34a;
             --brandkit-secondary: #16a34a;
             --brandkit-accent: #ec4899;
-            --brandkit-dark: #15803d;
+            --brandkit-dark: #3181ea;
         }
 
         /* Upload Box */
@@ -7423,12 +7423,12 @@
         }
 
         #chat-container::-webkit-scrollbar-thumb {
-            background: linear-gradient(180deg, #16a34a, #15803d);
+            background: linear-gradient(180deg, #16a34a, #3181ea);
             border-radius: 10px;
         }
 
         #chat-container::-webkit-scrollbar-thumb:hover {
-            background: linear-gradient(180deg, #15803d, #16a34a);
+            background: linear-gradient(180deg, #3181ea, #16a34a);
         }
 
         .chat-message {
@@ -8684,7 +8684,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: linear-gradient(145deg, #14532d 0%, #16a34a 35%, #15803d 65%, #0f2417 100%);
+            background: linear-gradient(145deg, #14532d 0%, #16a34a 35%, #3181ea 65%, #0f2417 100%);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -9022,7 +9022,7 @@
         .option-btn-lebaran.selected {
             background: linear-gradient(135deg, #f0fdf4 0%, #fefce8 100%);
             border-color: #16a34a;
-            color: #15803d;
+            color: #3181ea;
             font-weight: 700;
             box-shadow: 0 4px 16px rgba(22, 163, 74, 0.3);
             transform: translateY(-2px);
@@ -9106,7 +9106,7 @@
         .option-btn-walkpad.selected {
             background: linear-gradient(135deg, #f0fdf4 0%, #fdf2f8 100%);
             border-color: #16a34a;
-            color: #15803d;
+            color: #3181ea;
             font-weight: 700;
             box-shadow: 0 4px 16px rgba(22, 163, 74, 0.3);
             transform: translateY(-2px);
@@ -9198,7 +9198,7 @@
         .pose-quick-btn.selected { border-color: #06b6d4; color: #0e7490; background: #cffafe; font-weight: 600; }
 
         /* ===== BRAND COLOR OVERHAUL — Nature Bold Palette ===== */
-        /* PRIMARY: #16a34a | DARK: #15803d | LIGHT BG: #f0fdf4  */
+        /* PRIMARY: #16a34a | DARK: #3181ea | LIGHT BG: #f0fdf4  */
         /* BORDER: #dcfce7  | CTA: #ea580c  | CTA DARK: #c2410c  */
 
         /* 1. All content panels — unified white background */
@@ -9211,7 +9211,7 @@
         .main-content-panel > header,
         .main-content-panel > div > header,
         .main-content-panel > .container > header {
-            background: linear-gradient(135deg, #16a34a, #15803d) !important;
+            background: linear-gradient(135deg, #16a34a, #3181ea) !important;
             border-radius: 12px !important;
             padding: 1rem 1.5rem !important;
             margin-bottom: 1.5rem !important;
@@ -9231,8 +9231,8 @@
         /* 3. Option buttons — selected state (all features) */
         [class*="option-btn-"].selected,
         [class^="option-btn-"].selected {
-            background: linear-gradient(135deg, #16a34a, #15803d) !important;
-            border-color: #15803d !important;
+            background: linear-gradient(135deg, #16a34a, #3181ea) !important;
+            border-color: #3181ea !important;
             color: white !important;
             box-shadow: 0 4px 12px rgba(22, 163, 74, 0.3) !important;
         }
@@ -9252,7 +9252,7 @@
         [class*="upload-box-"]:hover,
         [class^="upload-box-"]:hover {
             background-color: #dcfce7 !important;
-            border-color: #15803d !important;
+            border-color: #3181ea !important;
         }
 
         /* 5. Loaders — green spinner */
@@ -9312,7 +9312,7 @@
 
         /* 8. Sidebar category headers */
         .menu-category-title {
-            color: #15803d !important;
+            color: #3181ea !important;
         }
         /* ===== END BRAND COLOR OVERHAUL ===== */
 
@@ -9658,7 +9658,7 @@
             background-color: rgba(22, 163, 74, 0.1);
         }
         .lang-toggle-btn.lang-active {
-            background: linear-gradient(135deg, #16a34a, #15803d);
+            background: linear-gradient(135deg, #16a34a, #3181ea);
             color: white;
             border-color: transparent;
             box-shadow: 0 2px 6px rgba(22, 163, 74, 0.3);
@@ -9683,7 +9683,7 @@
         }
         .mobile-lang-btn.lang-active {
             background: white;
-            color: #15803d;
+            color: #3181ea;
             border-color: white;
         }
         /* ===== END LANGUAGE TOGGLE ===== */
@@ -9711,11 +9711,11 @@
         .lang-dropdown.open .lang-dd-menu { display: block; }
         .lang-dd-option {
             padding: 10px 14px; min-height: 44px; display: flex; align-items: center;
-            font-size: 0.8rem; font-weight: 600; color: #15803d;
+            font-size: 0.8rem; font-weight: 600; color: #3181ea;
             border-radius: 8px; cursor: pointer; white-space: nowrap;
         }
         .lang-dd-option:hover { background: rgba(22,163,74,0.1); }
-        .lang-dd-option.lang-active { background: linear-gradient(135deg,#16a34a,#15803d); color: white; }
+        .lang-dd-option.lang-active { background: linear-gradient(135deg,#16a34a,#3181ea); color: white; }
         /* Varian mobile (header gelap) */
         .mobile-lang-toggle .lang-dd-btn { border-color: rgba(255,255,255,0.7); color: white; background: rgba(255,255,255,0.15); }
         .mobile-lang-toggle .lang-dd-btn:hover { background: rgba(255,255,255,0.25); }
@@ -9776,7 +9776,7 @@
         }
         .ad-lock-progress-fill {
             height: 100%;
-            background: linear-gradient(90deg, #16a34a, #15803d);
+            background: linear-gradient(90deg, #16a34a, #3181ea);
             width: 0%;
             border-radius: 8px;
         }
@@ -9842,7 +9842,7 @@
             display: none;
         }
         .ad-free-active-badge {
-            background: linear-gradient(135deg, #16a34a, #15803d);
+            background: linear-gradient(135deg, #16a34a, #3181ea);
             color: #fff;
             padding: 7px 12px;
             border-radius: 8px;
@@ -9995,7 +9995,7 @@
             gap: 0.6rem;
         }
         .adblock-btn-recheck {
-            background: linear-gradient(135deg, #16a34a, #15803d);
+            background: linear-gradient(135deg, #16a34a, #3181ea);
             color: white;
             border: 0;
             padding: 0.85rem 1rem;
